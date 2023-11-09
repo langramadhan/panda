@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fce4ec;
+    margin: 0;
+}
+
+header {
+    background-color: #ff80ab;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+#love-message {
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    background-color: #ff80ab;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    background-color: #ff4081;
+}
